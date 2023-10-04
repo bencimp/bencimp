@@ -1,6 +1,6 @@
 Ben Cimperman (@bencimp)
- - Currently studying at the University of Minnesota in the Twin Cities. My field of study is Computer Science, with a minor in Political Science.
- - Interested in contacting me? You can reach me either at my personal email bencimp@gmail.com or my university email cimpe005@umn.edu.
+ - Software engineer with a year and change of experience. Most of my code doesn't make it here and instead goes to my personal GitLab instance, but this is useful for stars and comments.
+ - Interested in contacting me? You can reach me either at my personal email bencimp@gmail.com.
 
 <!---
 bencimp/bencimp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
